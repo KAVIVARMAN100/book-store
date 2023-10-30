@@ -1,0 +1,38 @@
+[
+    {
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "summary": "A classic novel set in the American South during the 1930s, addressing issues of racism and injustice."
+      
+    },
+    {
+      "title": "1984",
+      "author": "George Orwell",
+      "summary": "A dystopian novel that explores the consequences of totalitarianism and surveillance society."
+   
+    },
+    {
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "summary": "A story of the Roaring Twenties, decadence, and the American Dream."
+  
+    },
+    {
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "summary": "A classic romance novel exploring societal norms and relationships in 19th-century England."
+ 
+    },
+    {
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "summary": "A coming-of-age novel following the adventures of Holden Caulfield in New York City."
+
+    },
+    {
+      "title": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "summary": "An epic fantasy trilogy following the quest to destroy the One Ring and save Middle-earth."
+     
+    }
+  ]
