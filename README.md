@@ -11,3 +11,6 @@ ROUTES
 3)UPDATING A BOOK------------------http://localhost:8000/book/:ID
 4)DELETING  a book--------------------http://localhost:8000/book/ID
 5)GETTING A SINGLE BOOK-----------http://localhost:8000/book/ID
+
+
+I HAVE USED MIDDLEWARES AND UTILIS FOLDER FOR FUTURE DEVELOPEMENT OF CODE ......
